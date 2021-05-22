@@ -25,4 +25,3 @@ custom_proxy_group=🐟 漏网之鱼`select`[]🚀 火箭`[]🎯 直连`.*
 
 enable_rule_generator=true
 overwrite_original_rules=true
-clash_rule_base=https://raw.githubusercontent.com/Nine499/Clash-Rule/master/config
