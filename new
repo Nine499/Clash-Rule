@@ -3,6 +3,7 @@
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
+ruleset=💣 ACG,https://raw.githubusercontent.com/Nine499/Clash-Rule/master/acg
 ruleset=📚 变态,https://raw.githubusercontent.com/Nine499/Clash-Rule/master/hentai
 ruleset=📺 奈非,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
 ruleset=🚀 火箭,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
@@ -15,6 +16,7 @@ ruleset=🚀 火箭,[]FINAL
 
 custom_proxy_group=🚀 火箭`select`[]DIRECT`.*
 custom_proxy_group=📚 变态`select`[]DIRECT`.*
+custom_proxy_group=💣 ACG`select`[]DIRECT`.*
 custom_proxy_group=📺 奈非`select`[]DIRECT`.*
 custom_proxy_group=🎯 全球直连`select`[]DIRECT
 
